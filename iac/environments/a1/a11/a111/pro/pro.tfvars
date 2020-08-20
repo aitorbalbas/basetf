@@ -1,6 +1,6 @@
 # Environment vars
 #
-environment = "pro" // environment: poc dev pre pro
+environment = "prio" // environment: poc dev pre pro
 
 
 
